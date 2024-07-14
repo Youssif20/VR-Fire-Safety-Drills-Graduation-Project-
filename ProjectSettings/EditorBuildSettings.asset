@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Chemistry/scenes/chemistry.unity
+    guid: 2289127379d17ed4991285883be7e960
+  - enabled: 1
+    path: Assets/JP_Apartment/Scenes/Apartment.unity
+    guid: 80d478da8e2658d4eb769f806029f900
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f7a11206d5009874b9b043f3c7c63ef2, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9ef2b9573146a6144bf4c47d56b819ad, type: 2}
